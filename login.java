@@ -1,7 +1,8 @@
 // Th fucntionality //
   void main ()
 { 
-	Enter the name ;
-	 read the name'
-
+	Enter the username ,
+	 read the usre name,
+       Enter the usremain,
+      Read the usermail,
 }
